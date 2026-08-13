@@ -121,7 +121,6 @@ Add your screenshots in `static/images/`
 
 - Face recognition
 - Attendance management
-- Cloud deployment
 - Email/SMS alerts
 - Analytics dashboard
 
