@@ -109,13 +109,33 @@ http://127.0.0.1:5000
 
 ## 📸 Screenshots
 
-Add your screenshots in `static/images/`
+### 🌐 Landing Page
 
-- dashboard.png
-- mobile_detection.png
-- alert.png
+The main web interface where the invigilator can start monitoring and access the dashboard.
+
+<p align="center">
+  <img src="static/images/index.png" width="850" alt="Landing Page"/>
+</p>
 
 ---
+
+### 🎯 Real-Time Detection
+
+Demonstrates how the AI model detects suspicious activities such as mobile phone usage and multiple-person presence in real time.
+
+<p align="center">
+  <img src="static/images/detect.png" width="850" alt="Real-Time Detection"/>
+</p>
+
+---
+
+### 🚨 Suspicious Activity Dashboard
+
+Shows the dashboard containing the suspicious activity log with **confidence score, timestamp, and captured evidence image**.
+
+<p align="center">
+  <img src="static/images/dashboard.png" width="850" alt="Suspicious Activity Dashboard"/>
+</p>
 
 ## 🔮 Future Enhancements
 
